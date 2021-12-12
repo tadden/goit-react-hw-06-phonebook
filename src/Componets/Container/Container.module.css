@@ -1,0 +1,8 @@
+.container {
+  border: 2px solid rgb(22, 22, 122);
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}

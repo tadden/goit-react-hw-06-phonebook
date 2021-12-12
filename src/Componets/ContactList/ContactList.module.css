@@ -1,0 +1,35 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+
+.name {
+  margin-right: 5px;
+}
+
+.number {
+  margin-right: 5px;
+}
+
+.button {
+  color: white;
+  background-color: rgb(189, 35, 35);
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.button:hover,
+.button:focus {
+  background-color: rgb(197, 89, 89);
+}
