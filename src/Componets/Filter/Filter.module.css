@@ -1,9 +1,8 @@
-.span {
+input {
   display: block;
-  margin-bottom: 10px;
 }
 
-.input {
-  width: 100%;
-  padding: 10px;
+.filter {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
